@@ -1,0 +1,18 @@
+51.5
+221
+67.6
+max step of x axis =39000
+max step of x axis =28000
+ 
+重新定位點(4個角落) -> 自動判定開口
+define 邊界實際距離
+define hockey radius
+計算邊界內縮(只內縮兩側
+
+
+取得與邊界距離 計算信賴值  少於define 某值 的信賴值 不採計入累進射線
+
+class shoot 
+class path -> 紀錄該次shoot的行進路線
+mode 2 ->
+計算擊球點

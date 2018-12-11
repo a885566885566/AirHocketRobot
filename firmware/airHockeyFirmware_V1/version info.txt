@@ -1,0 +1,2 @@
+V2 -> use struct instead of class
+V3 -> delete the nowPoint member in the struct BLOCK 
